@@ -1,0 +1,36 @@
+AWAY
+
+HOME
+Game_N_Watch	0	0	0	0	0	1	0.000	0.000
+
+LEAGUE LEADERS
+BATTING AVERAGE
+0.000	Game_N_Watch
+0.000	Game_N_Watch
+0.000	Game_N_Watch
+
+ON-BASE PERCENTAGE
+0.000	Game_N_Watch
+0.000	Game_N_Watch
+0.000	Game_N_Watch
+
+HITS
+0	Game_N_Watch
+0	Game_N_Watch
+0	Game_N_Watch
+
+WALKS
+0	Game_N_Watch
+0	Game_N_Watch
+0	Game_N_Watch
+
+STRIKEOUTS
+0	Game_N_Watch
+0	Game_N_Watch
+0	Game_N_Watch
+
+HIT BY PITCH
+0	Game_N_Watch
+0	Game_N_Watch
+0	Game_N_Watch
+
